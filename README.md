@@ -1,3 +1,3 @@
 # Travel-Website
 
-In this we have made awebite which provide travel related services
+In this we have made a website which provide travel related services
